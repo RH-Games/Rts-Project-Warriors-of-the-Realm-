@@ -1,4 +1,4 @@
-# Rts-Project-Warriors-of-the-Realm-
+# Rts Project Warriors of the Realm
 Real-Time Strategy Project
 For this project, I will be using asset packs from Synty Stuido for models. This is so I can focus on the programming and game design side of the project.
 I am the solo developer on this project. I am a massive fan of RTS games and wanted to make one myself.

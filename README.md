@@ -20,7 +20,7 @@ The combat in the game is based on rock, paper, scissors.
 
 ## Future Goals
 - Multiplayer
-procedurally generated levels
+- procedurally generated levels
 - More game modes
   
 ## Code
@@ -32,7 +32,7 @@ Player Camera
 Highlight (in development)
 - Highlight box
 - Click and unit select
-- 
+
 Ui Hud (in development)
 - Add to viewport
 
